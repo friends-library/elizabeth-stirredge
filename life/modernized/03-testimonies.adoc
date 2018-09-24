@@ -1,6 +1,6 @@
 == Testimonies Concerning Elizabeth Stirredge
 
-[.alt]
+[.blurb]
 === A Testimony from several Friends belonging to the meeting at Hemel, Hemstead, and the parts adjacent, in the county of Hertford, concerning Elizabeth Stirredge, the 8th of the Third month, 1711.
 
 Our dear friends James and Elizabeth Stirredge, came here to reside about the year 1688,
@@ -44,7 +44,7 @@ and was buried in Friends' burying-ground at Wood-end, in the said parish.
 [.signed-section-signature]
 John Edmonds, Michael Turpin, Moses West, Michael Turpin, Jr. Edmond Neale, James Stirredge
 
-[.alt]
+[.blurb]
 === John Thornton's account of his neighbor, Elizabeth Stirredge.
 
 I had an intimate acquaintance with her;
@@ -71,7 +71,7 @@ and entered into joy and happiness, where all sorrows cease, and tears are wiped
 [.signed-section-signature]
 John Thornton
 
-[.alt]
+[.blurb]
 === John Neale's Testimony concerning Elizabeth Stirredge.
 
 It is in my mind to write something as a testimony
@@ -112,7 +112,7 @@ where joy unspeakable and full of glory is their portion, for evermore.
 [.signed-section-signature]
 John Neale.
 
-[.alt]
+[.blurb]
 === Concerning her husband, James Stirredge, by the same hand.
 
 He was a man with whom I was well acquainted for many years;
