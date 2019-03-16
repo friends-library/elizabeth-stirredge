@@ -1,5 +1,7 @@
 == Testimonies Concerning Elizabeth Stirredge
 
+//I'm not really sure if any of these need an embedded document?? 
+
 [.embedded-content-document.letter]
 --
 
@@ -46,6 +48,8 @@ and was buried in Friends`' burying-ground at Wood-end, in the said parish.
 
 [.signed-section-signature]
 John Edmonds, Michael Turpin, Moses West, Michael Turpin, Jr. Edmond Neale, James Stirredge
+
+--
 
 [.embedded-content-document.letter]
 --
@@ -153,3 +157,5 @@ and was buried at Friends`' burying-ground at Woodend, in the same county.
 
 [.signed-section-signature]
 John Neale
+
+--
