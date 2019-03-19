@@ -1146,9 +1146,9 @@ I had not been here this day.`"
 [.offset]
 __Which Testimony was as follows:__
 
-[.embedded-content-document.letter]
+[.embedded-content-document.testimony]
 --
-//not sure about this one
+
 "`This is to the mayor, aldermen and officers of all sorts,
 and all who have a hand in persecuting the righteous servants of the most high God,
 called Quakers, who are dear unto the Lord, as the apple of his eye;
@@ -2249,9 +2249,6 @@ and then your eyes shall see the blessed work of the Lord fulfilled in its due t
 for he is God Almighty, and all-sufficient:
 therefore let every heart confide in his power.
 
-[.embedded-content-document.letter]
---
-
 Dear friends, keep your heart with all diligence, for out of it are the issues of life;
 for we all well know, that the people who live most chaste, keep nearest to the Lord,
 and they that are nearest, hear most of his counsel.
@@ -2281,5 +2278,3 @@ Elizabeth Stirredge
 
 [.signed-section-context-close]
 The 2nd day of the First month, 1683
-
---
