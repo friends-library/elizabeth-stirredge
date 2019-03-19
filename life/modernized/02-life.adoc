@@ -1146,6 +1146,9 @@ I had not been here this day.`"
 [.offset]
 __Which Testimony was as follows:__
 
+[.embedded-content-document.testimony]
+--
+
 "`This is to the mayor, aldermen and officers of all sorts,
 and all who have a hand in persecuting the righteous servants of the most high God,
 called Quakers, who are dear unto the Lord, as the apple of his eye;
@@ -1271,6 +1274,8 @@ yet you have delivered your soul, but his blood shall be upon his own head.`"
 
 [.signed-section-signature]
 Elizabeth Stirredge.
+
+--
 
 It further lives with me to leave a relation of our suffering,
 trials and imprisonment in the year 1683.
