@@ -435,6 +435,9 @@ which is the greatest comfort that can be enjoyed.
 [.offset]
 This was my testimony to King Charles II., in the eleventh month, of the year 1670.
 
+[.embedded-content-document.address]
+--
+
 "`This is unto you, O king:
 Hear what the Lord has committed unto my charge concerning you.
 As you have been the cause of making many desolate, so will the Lord lay you desolate;
@@ -444,6 +447,8 @@ in the day when I call all to an account, I will plead with them, says the Lord.
 Therefore hear and fear the Lord God of heaven and earth,
 for of his righteous judgments all shall be made partakers;
 from the king that sits upon the throne, to the beggar upon the dunghill.`"
+
+--
 
 This testimony I delivered into his hands, with these words, "`Hear, oh king,
 and fear the Lord God of heaven and earth.`"
