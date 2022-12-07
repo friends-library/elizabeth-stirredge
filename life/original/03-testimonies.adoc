@@ -1,8 +1,7 @@
 == Testimonies Concerning Elizabeth Stirredge
 
-A Testimony from Several Friends Belonging to the Meeting at Hemel, Hemstead,
-and the Parts Adjacent, in the County of Hertford, Concerning Elizabeth Stirredge,
-the 8th of the Third Month, 1711.
+[.blurb]
+=== A Testimony from Several Friends Belonging to the Meeting at Hemel, Hemstead, and the Parts Adjacent, in the County of Hertford, Concerning Elizabeth Stirredge, the 8th of the Third Month, 1711.
 
 Our dear friends James and Elizabeth Stirredge, came here to reside about the year 1688,
 whose coming into these parts was seasonable,
@@ -43,9 +42,11 @@ Our said friend, Elizabeth Stirredge, departed this life at Hemstead aforesaid,
 on the 7th of the ninth month, 1706,
 and was buried in Friends`' burying-ground at Wood-end, in the said parish.
 
+[.signed-section-signature]
 John Edmonds, Michael Turpin, Moses West, Michael Turpin, Jr., Edmond Neale,
 James Stirredge.
 
+[.blurb]
 === John Thornton`'s Account of his Neighbour, Elizabeth Stirredge.
 
 I had an intimate acquaintance with her;
@@ -69,8 +70,10 @@ they were both serviceable to truth and Friends.
 But the will of God be done; for fully satisfied am I, that they are gone to rest,
 and entered into joy and happiness, where all sorrows cease, and tears are wiped away.
 
+[.signed-section-signature]
 John Thornton.
 
+[.blurb]
 === John Neale`'s Testimony Concerning Elizabeth Stirredge
 
 It is in my mind to write something as a testimony
@@ -114,8 +117,10 @@ Though our loss of such worthies be great;
 yet doubtless they are entered into those mansions of eternal bliss,
 where joy unspeakable and full of glory is their portion, forevermore.
 
+[.signed-section-signature]
 John Neale.
 
+[.blurb]
 === Concerning her Husband, James Stirredge, by the Same Hand
 
 He was a man with whom I was well acquainted for many years;
@@ -139,4 +144,5 @@ He was very patient under his affliction, and I believe fully resigned to the wi
 He departed this life in the eighth month, 1708, at Hemstead in Hertfordshire,
 and was buried at Friends`' burying-ground at Woodend, in the same county.
 
+[.signed-section-signature]
 John Neale.
