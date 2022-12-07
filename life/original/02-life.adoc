@@ -437,6 +437,9 @@ gave me strength to do his will, and afforded me his living presence to accompan
 which is the greatest comfort that can be enjoyed.
 This was my testimony to King Charles II., in the eleventh month, of the year 1670.
 
+[.embedded-content-document.testimony]
+--
+
 This is unto thee, O king:
 Hear what the Lord hath committed unto my charge concerning thee.
 As thou hast been the cause of making many desolate, so will the Lord lay thee desolate;
@@ -446,6 +449,8 @@ in the day when I call all to an account, I will plead with them, saith the Lord
 Therefore hear and fear the Lord God of heaven and earth,
 for of his righteous judgments all shall be made partakers;
 from the king that sitteth upon the throne, to the beggar upon the dunghill.
+
+--
 
 This testimony I delivered into his hands, with these words, "`Hear, oh king,
 and fear the Lord God of heaven and earth.`"
@@ -1147,7 +1152,11 @@ and well weigh and consider what is written therein;
 for could I have been clear in the sight of God in not coming,
 I had not been here this day.`"
 
+[.offset]
 Which testimony was as followeth:
+
+[.embedded-content-document.testimony]
+--
 
 This is to the mayor, aldermen and officers of all sorts,
 and all who have a hand in persecuting the righteous servants of the most high God,
@@ -1277,7 +1286,10 @@ who said to his servant in the days of old, "`If thou warn the wicked,
 and they turn not from their wickedness, yet thou hast delivered thy soul,
 but his blood shall be upon his own head.`"
 
+[.signed-section-signature]
 Elizabeth Stirredge.
+
+--
 
 It further liveth with me to leave a relation of our suffering,
 trials and imprisonment in the year 1683.
@@ -1305,6 +1317,7 @@ The terror of evil times did not affright us,
 though our enemies determined our ruin and destruction,
 and pleased themselves in afflicting us.
 
+[.centered]
 === The Manner of Our Going to Prison, and by Whom we were Persecuted
 
 Robert Cross, priest of the parish of Chew-magna, in the county of Somerset,
@@ -2081,9 +2094,10 @@ Lord, accept it this evening, as a sacrifice from a broken heart, and a contrite
 which thou never rejected: for thou art worthy of it, from this time forth, forever,
 and forevermore, Amen.`"
 
-This was finished the 13th day of the second month, 1692.
-By me,
+[.signed-section-closing]
+This was finished the 13th day of the second month, 1692. By me,
 
+[.signed-section-signature]
 Elizabeth Stirredge, Sen.
 
 [.asterism]
@@ -2110,11 +2124,8 @@ on the 7th day of the ninth month, 1706, in the seventy-second year of her age.
 [.asterism]
 '''
 
-A Salutation of my Endeared Love, in God`'s Holy Fear, for the Clearing of my Conscience,
-Once More unto You of the City of Bristol,
-Amongst whom my Soul hath Travailed Under many Exercises,
-which have Made my Heart to Tremble Before the Great God of Heaven and Earth,
-Who will yet Further Reveal His Notable Day, Wherein All Flesh shall Tremble Before Him.
+[.blurb]
+=== A Salutation of my Endeared Love, in God`'s Holy Fear, for the Clearing of my Conscience, Once More unto You of the City of Bristol, Amongst whom my Soul hath Travailed Under many Exercises, which have Made my Heart to Tremble Before the Great God of Heaven and Earth, Who will yet Further Reveal His Notable Day, Wherein All Flesh shall Tremble Before Him.
 
 In the sense of the great love of God that hath been
 extended unto you of that city continually;
@@ -2287,10 +2298,13 @@ and because they have not regarded the call of the Lord, when they cry aloud to 
 he will not regard them.
 Oh! then blessed eternally, and happy forevermore will all those be,
 who have obeyed the Lord in their day, and have not their portion with the wicked.
-
 With my endeared love to you, desiring and praying for your soul`'s prosperity,
+
+[.signed-section-closing]
 I remain your loving friend,
 
+[.signed-section-signature]
 Elizabeth Stirredge.
 
+[.signed-section-context-close]
 The 2nd day of the First month, 1683.
